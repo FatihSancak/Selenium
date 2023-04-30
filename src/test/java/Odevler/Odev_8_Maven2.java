@@ -1,4 +1,4 @@
-package day05_JUnit;
+package Odevler;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C2_MavenTestDemo_2 {
+public class Odev_8_Maven2 {
     public static void main(String[] args) {
 /*
 https://www.google.com/ adresine gidin

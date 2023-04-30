@@ -1,4 +1,4 @@
-package day05_JUnit;
+package Odevler;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C02_MavenTestDemo_1 {
+public class Odev_7_Maven {
     /*
 1. “https://www.saucedemo.com” Adresine gidin
 2. Username kutusuna “standard_user” yazdirin
