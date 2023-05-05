@@ -30,5 +30,7 @@ public class C05_FileUpload extends TestBase {
         WebElement actualWE = driver.findElement(By.tagName("h3"));
 
         Assert.assertTrue(actualWE.isDisplayed());
+
+
     }
 }
